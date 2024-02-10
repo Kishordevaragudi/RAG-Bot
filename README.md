@@ -17,7 +17,7 @@ A RAG bot is short for Retrieval-Augmented Generation. This means that we are go
 
 This is more clearly explained but here is a diagram that shows the process:
 
-![RAG Diagram](![Screenshot 2024-02-10 133319](https://github.com/Kishordevaragudi/RAG-Bot/assets/105155723/edc6d3c0-b99f-4c31-8bac-c8b51ab90876))
+![Screenshot 2024-02-10 133319](https://github.com/Kishordevaragudi/RAG-Bot/assets/105155723/edc6d3c0-b99f-4c31-8bac-c8b51ab90876)
 
 ## Installation
 Ensure you have Python installed on your system. Then clone this repository:
